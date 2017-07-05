@@ -1,0 +1,3 @@
+debug:
+  pluginName: EX
+  socketPort: 9000

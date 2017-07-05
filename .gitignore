@@ -1,0 +1,6 @@
+.idea
+lib
+server
+target
+*.xml
+*.iml

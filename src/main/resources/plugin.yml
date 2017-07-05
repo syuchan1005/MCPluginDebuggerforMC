@@ -1,0 +1,14 @@
+name: MCPluginDebugger
+version: ${project.version}
+main: com.github.syuchan1005.mcplugindebugger.MCPluginDebugger
+authors: [syuchan1005]
+
+commands:
+  unload:
+    description: "Unload Plugin"
+    usage: "/<command> [pluginName]"
+    permission: debug.unload
+  load:
+    description: "Load Plugin"
+    usage: "/<command> [pluginName]"
+    permission: debug.load
