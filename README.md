@@ -14,7 +14,7 @@ debug:
 3. Do any of the below
 
 <details>
-<summary>Maven</summary>
+<summary>Maven(only ReloadPlugin)</summary>
 <p>
 
 1. open your pom.xml, and write this. (in <repositories> tag)
@@ -59,33 +59,38 @@ debug:
 </p>
 </details>
 
+## IDE Plugins (Launch Server, Reload Plugin and more)
+
 <details>
     <summary>IntelliJ IDEA</summary>
     <p>
-
 1. Open your IntelliJ IDEA. and open plugins setting.
 2. Click `Browse repositories...`.
 3. type `MCPluginDebugger` in SearchBox.
 4. click `Install` and restart it!
-5. Open `MCDebugConsole` in IntelliJ IDEA and write your config. 
-7. Click `Start` in `MCDebugConsole`
-8. Edit Source and Compile
-9. Click `ReloadPlugin`
-
+5. Open `View -> Tool Windows -> MCDebugConsole` and write your config. 
     </p>
 </details>
 
-## Sorry, UnImplements.↓
 <details>
     <summary>Eclipse</summary>
     <p>
-    Sorry...
+1. Open your Eclipse. and open `Help -> Install New Software...`
+2. type `https://syuchan1005.github.io/MCPluginDebuggerforEclipse` in `Work with: `Box.
+3. open `Debug` and check `MCPluginDebuggerforEclipse`.
+4. click `Next >` two times, check `I accept....`.
+5. click `Finish` and restart it!.
+6. Open `Window -> Show View -> Other...`, `Debug -> MCDebugConsole` and write your config. 
     </p>
 </details>
 
 <details>
     <summary>Netbeans</summary>
     <p>
-    Sorry...
+    Sorry... wait a minute.
     </p>
 </details>
+
+7. Click `Start` in `MCDebugConsole`
+8. Edit Source and Compile
+9. Click `ReloadPlugin`
