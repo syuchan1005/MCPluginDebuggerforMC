@@ -64,30 +64,36 @@ debug:
 <details>
     <summary>IntelliJ IDEA</summary>
     <p>
+    
 1. Open your IntelliJ IDEA. and open plugins setting.
 2. Click `Browse repositories...`.
 3. type `MCPluginDebugger` in SearchBox.
 4. click `Install` and restart it!
-5. Open `View -> Tool Windows -> MCDebugConsole` and write your config. 
+5. Open `View -> Tool Windows -> MCDebugConsole` and write your config.
+ 
     </p>
 </details>
 
 <details>
     <summary>Eclipse</summary>
     <p>
+    
 1. Open your Eclipse. and open `Help -> Install New Software...`
 2. type `https://syuchan1005.github.io/MCPluginDebuggerforEclipse` in `Work with: `Box.
 3. open `Debug` and check `MCPluginDebuggerforEclipse`.
 4. click `Next >` two times, check `I accept....`.
 5. click `Finish` and restart it!.
-6. Open `Window -> Show View -> Other...`, `Debug -> MCDebugConsole` and write your config. 
+6. Open `Window -> Show View -> Other...`, `Debug -> MCDebugConsole` and write your config.
+ 
     </p>
 </details>
 
 <details>
     <summary>Netbeans</summary>
     <p>
-    Sorry... wait a minute.
+    
+Sorry... wait a minute.
+    
     </p>
 </details>
 
